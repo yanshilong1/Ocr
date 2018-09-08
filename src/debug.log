@@ -1,0 +1,32 @@
+[INFO ] 2018-09-09 01:30:13,426 method:TTT.main(TTT.java:11)
+1234
+[INFO ] 2018-09-09 01:30:13,426 method:TTT.main(TTT.java:11)
+1234
+[INFO ] 2018-09-09 01:30:13,474 method:TTT.main(TTT.java:11)
+1234
+[INFO ] 2018-09-09 01:30:13,474 method:TTT.main(TTT.java:11)
+1234
+[INFO ] 2018-09-09 01:37:34,220 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[INFO ] 2018-09-09 01:37:34,220 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[DEBUG] 2018-09-09 01:37:34,223 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:227)
+current state after check priviledge: STATE_TRUE_AIP_USER
+[INFO ] 2018-09-09 01:38:17,017 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[INFO ] 2018-09-09 01:38:17,017 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[DEBUG] 2018-09-09 01:38:17,028 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:227)
+current state after check priviledge: STATE_TRUE_AIP_USER
+[INFO ] 2018-09-09 01:49:57,072 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[INFO ] 2018-09-09 01:49:57,072 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[DEBUG] 2018-09-09 01:49:57,077 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:227)
+current state after check priviledge: STATE_TRUE_AIP_USER
+[INFO ] 2018-09-09 01:52:43,650 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[INFO ] 2018-09-09 01:52:43,650 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:209)
+get access_token success. current state: STATE_AIP_AUTH_OK
+[DEBUG] 2018-09-09 01:52:43,655 method:com.baidu.aip.client.BaseClient.getAccessToken(BaseClient.java:227)
+current state after check priviledge: STATE_TRUE_AIP_USER
